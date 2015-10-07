@@ -55,7 +55,7 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "ambi": "^2.2.0",
+    "ambi": "2.2.0",
     "coffee-script": "~1.8.0",
     "extract-opts": "~2.2.0",
     "js2coffee": "~0.3.5",
